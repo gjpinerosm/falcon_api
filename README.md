@@ -1,1 +1,1 @@
-# falcon_api
+curl --header "Content-type: application/xml" --request POST --data '<name>Gio</name> ' http://localhost:9000/mock2
